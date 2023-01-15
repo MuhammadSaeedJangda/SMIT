@@ -1,0 +1,49 @@
+
+.formall {
+    background-image: url(/public/guide.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    width: 81vh;
+    margin-bottom: 50px;
+    margin-top: 19px;
+    padding: 38px;
+    text-align: center;
+    background-color: #0d6efd;
+    margin-left: 69vh;
+    border-radius: 10px;
+}
+
+h2{
+    font-size: 5vh;
+}
+.holder{
+    width: 45vh;
+    height: 5vh;
+    border-radius: 1vh;
+    font-size: 2vh;
+
+}
+.submit-button{
+    border-radius: 1vh;
+    background-color: white;
+    padding: 0.7vh;
+    margin-left: 1vh;
+    font-size: 2vh;
+    color: black;
+}
+
+@media screen and (max-width:640px){
+    .formall {
+        background-image: url(/public/guide.png);
+        background-position: top;
+        background-repeat: no-repeat;
+        width: 69vh;
+        margin-bottom: 50px;
+        margin-top: 19px;
+        padding: 24px;
+        text-align: center;
+        background-color: #0d6efd;
+        margin-left: 4vh;
+        border-radius: 10px;
+    }
+    }

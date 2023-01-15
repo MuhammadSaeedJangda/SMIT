@@ -1,0 +1,21 @@
+.contactimg{
+    margin-left: 20vh;
+}
+.map{
+    margin-left: 103vh;
+    margin-top: 5vh;
+}
+.contact-inputs{
+    width: 36vh;
+    display: flex;
+    margin: 10px;
+    row-gap: 1rem;
+    flex-direction: column;
+    border-radius: 2vh;
+    border-color: #99CA3C;
+    box-shadow: #99CA3C;
+}
+.contact-form{
+    margin-top: -70vh;
+    margin-left: 20vh;
+}

@@ -1,0 +1,33 @@
+.container {
+  padding: 24px;
+  display: block;
+  margin-left: 18vh;
+  background-color: #8AC642;
+  display: inline-block;
+  height: 52vh;
+  margin-top: 4vh;
+}
+.about-img{
+    margin-bottom: 63vh;
+    margin-top: 18vh;
+}
+  .image{
+    margin-left: 118vh;
+    margin-top: -31vh;
+    width: 56vh;
+    height: 38vh;
+  }
+  p {
+    margin-bottom: 1rem;
+    width: 70vh;
+    margin-left: 8vh;
+    margin-top: 5vh;
+    font-size: 2vh;
+    font-weight: bold;
+}
+h1{
+  font-size: 7vh;
+  font-size: 7vh;
+    margin-left: 8vh;
+    margin-bottom: 4vh;
+}

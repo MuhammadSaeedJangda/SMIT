@@ -1,0 +1,26 @@
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 59vh;
+    margin-top: 4vh;
+}
+.carousel img{
+height: 59vh;
+}
+@media screen and (max-width:640px){
+.carousel {
+    width: 80vh;
+    position: relative;
+    margin-left: -5vh;
+
+}
+.d-block {
+    height: 331px;
+    margin-top: 15vh;
+    width: 100vh;
+  }
+  .carousel-item{
+    width: 50vh;
+  }
+}

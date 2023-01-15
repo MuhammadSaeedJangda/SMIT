@@ -1,0 +1,15 @@
+.ant-card-body{
+    padding: 7px;
+    border-radius: 0 0 8px 8px;
+    margin-left: 5vh;
+}
+.card{
+    margin-left: 5vh;
+}
+.container{
+    padding: 24px;
+    display: block;
+    display: inline-block;
+}
+
+  
